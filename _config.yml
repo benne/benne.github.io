@@ -96,7 +96,7 @@ author:
   avatar           : "/assets/images/benne.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Enterprise software and cloud architect.<br /><br />Fan of retro computing, vaporwave and connecting old things to the cloud. Still running ICQ 98a somewhere."
   location         : "Copenhagen, Denmark"
-  email            : "benne@benne.io"
+  email            : "benne@benne.dk"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
