@@ -20,7 +20,7 @@ title                    : "Benne I/O"
 title_separator          : "-"
 subtitle                 : "Thoughts on cloud architecture and Microsoft Azure" # site tagline that appears below site title in masthead
 name                     : "Benne"
-description              : "Thoughts on cloud architecture and Microsoft Azure. Enterprise software and cloud architect. Fan of retro computing, vaporwave and connecting old things to the cloud. Still running ICQ 98a somewhere."
+description              : "Thoughts on cloud architecture and Microsoft Azure. Enterprise software and cloud architect. Fan of retro computing, vaporwave and connecting old things to the cloud. Still running ICQ 98a somewhere. 💾"
 url                      : "https://benne.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Benne"
   avatar           : "/assets/images/benne.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Enterprise software and cloud architect.<br /><br />Fan of retro computing, vaporwave and connecting old things to the cloud. Still running ICQ 98a somewhere."
+  bio              : "Enterprise software and cloud architect.<br /><br />Fan of retro computing, vaporwave and connecting old things to the cloud. Still running ICQ 98a somewhere. 💾"
   location         : "Copenhagen, Denmark"
   email            : "benne@benne.dk"
   links:
