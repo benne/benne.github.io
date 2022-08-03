@@ -1,21 +1,9 @@
 source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll"
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-remote-theme"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+
+gem "jekyll", "~> 3.7"
+
 group :jekyll_plugins do
+  gem "jekyll-data"
   gem "jekyll-feed"
 end
 
@@ -26,8 +14,11 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Try the Minimal Mistakes theme
-gem "minimal-mistakes-jekyll"
-
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+gem "kramdown-parser-gfm"
+gem "webrick"
+
+# use the Minimal Mistakes theme
+gem "minimal-mistakes-jekyll"
