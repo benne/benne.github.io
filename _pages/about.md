@@ -9,4 +9,6 @@ Hi, I'm Benne!
 And I just love retro computing 💾, hugging cloud servers 🌩 and listening to [mallsoft](https://catsystemcorp.bandcamp.com/album/palm-mall-mars-remastered) and
 `(vapor|synth|chill|retro)`-[wave](https://music.midwestcollective.us/track/resonance) 🐬.
 
-I am a father and a husbond, and in my spare time I run a soft drinks company 🥤 in my imagination.
+In my day-to-day life, I work for [AkademikerPension](https://akademikerpension.dk), a Danish medium-sized pension fund, as the lead software and cloud architect, where I oversee the transition to a fully cloud based datacenter based on Microsoft Azure.
+
+I am a father and a husband, and in my spare time I run an imaginary soft drinks company 🥤.
